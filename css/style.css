@@ -1,0 +1,61 @@
+.bloc-un{
+    background:#0475ba;
+    display: flex;
+    color: white;
+}
+.bloc-un ul{
+    display: flex;
+    list-style: none;
+}
+.bloc-un li{
+    margin: 8px;
+    
+}
+
+.bloc-blanc-un {
+    text-align: center;
+    color: white;
+}
+
+h3{
+    color: #0475ba;
+
+}
+img{
+    max-width: 100px;
+    
+    clip-path:ellipse(50% 50%);
+}
+.bloc-deux aside{
+    text-align: center;
+    color: white;
+}
+.bloc-deux{
+    background:#0475ba;
+    padding:32px;
+}
+.bloc-deux ul{
+    color: white;
+}
+
+.bloc-trois aside{
+    text-align: center;
+}
+.bloc3 p{
+    display: inline;
+    line-height: normal;
+    
+}
+.bloc3{
+    list-style: none;
+}
+.bloc3 p{
+    float: right;
+    padding: 
+}
+section aside{
+    text-align: center;
+    padding: 8px;
+    font-size: 24px;
+    color:#0475ba;
+}
